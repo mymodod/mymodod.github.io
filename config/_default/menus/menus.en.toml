@@ -37,7 +37,7 @@
 [[main]]
   name = "House Rental"
   url = "/docs/house/house-rental"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Hotel Booking"
