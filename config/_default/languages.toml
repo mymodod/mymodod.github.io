@@ -5,7 +5,7 @@
   [en.params]
     languageISO = "EN"
     languageTag = "en-US"
-    footer = '🌷֒ <a class="text-muted" href="https://x.com/gitspot">GitSpot</a>'
+    footer = '<a class="text-muted" href="https://x.com/gitspot" style="text-decoration:none">Powered by 🌷֒ GitSpot</a>'
     alertText = '<a class="alert-link stretched-link fw-normal" href="https://gitspot.com">Build with Hugo and Doks!</a>'
 
 [de]
