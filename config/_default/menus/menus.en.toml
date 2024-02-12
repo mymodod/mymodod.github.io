@@ -30,18 +30,18 @@
 
 [[main]]
   name = "Car Rental"
-  url = "/docs/guides/example-guide/"
+  url = "/docs/car/car-rental/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
 [[main]]
-  name = "House Rent"
-  url = "/blog/"
+  name = "House Rental"
+  url = "/docs/house/house-rental"
   weight = 30
 
 [[main]]
-  name = "Tourism"
-  url = "/blog/"
+  name = "Hotel Booking"
+  url = "/docs/hotel/hotel-booking"
   weight = 30
 # [[social]]
 #   name = "Twitter"
